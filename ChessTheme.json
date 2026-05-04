@@ -1,0 +1,101 @@
+{
+    "name": "Grandmaster Light",
+    "dataColors": [
+        "#B58863", 
+        "#F0D9B5", 
+        "#2C2C2C", 
+        "#D4AF37", 
+        "#4CAF50", 
+        "#D32F2F", 
+        "#78909C", 
+        "#8D99AE"
+    ],
+    "background": "#F8F8F8",
+    "foreground": "#2C2C2C",
+    "tableAccent": "#B58863",
+    "textClasses": {
+        "label": {
+            "fontFace": "Segoe UI",
+            "color": "#4A4A4A"
+        },
+        "callout": {
+            "fontFace": "Segoe UI SemiLight",
+            "color": "#1E1E1E"
+        },
+        "title": {
+            "fontFace": "Segoe UI SemiBold",
+            "color": "#1E1E1E"
+        },
+        "header": {
+            "fontFace": "Segoe UI SemiBold",
+            "color": "#1E1E1E"
+        }
+    },
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{
+                    "show": true,
+                    "color": {"solid": {"color": "#FFFFFF"}},
+                    "transparency": 0
+                }],
+                "border": [{
+                    "show": true,
+                    "radius": 8,
+                    "color": {"solid": {"color": "#EAEAEA"}}
+                }],
+                "dropShadow": [{
+                    "show": true,
+                    "color": {"solid": {"color": "#000000"}},
+                    "position": "Outer",
+                    "preset": "BottomRight",
+                    "blur": 8,
+                    "transparency": 92
+                }],
+                "visualHeader": [{
+                    "foreground": {"solid": {"color": "#1E1E1E"}},
+                    "fontFamily": "Segoe UI SemiBold",
+                    "textSize": 11
+                }]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [{
+                    "color": {"solid": {"color": "#F8F8F8"}},
+                    "transparency": 0
+                }],
+                "outspace": [{
+                    "color": {"solid": {"color": "#E0E0E0"}},
+                    "transparency": 0
+                }]
+            }
+        },
+        "barChart": {
+            "*": {
+                "categoryAxis": [{
+                    "showAxisTitle": false,
+                    "labelColor": {"solid": {"color": "#4A4A4A"}}
+                }],
+                "valueAxis": [{
+                    "showAxisTitle": false,
+                    "labelColor": {"solid": {"color": "#4A4A4A"}},
+                    "gridlineColor": {"solid": {"color": "#F0F0F0"}}
+                }]
+            }
+        },
+        "columnChart": {
+            "*": {
+                "categoryAxis": [{
+                    "showAxisTitle": false,
+                    "labelColor": {"solid": {"color": "#4A4A4A"}}
+                }],
+                "valueAxis": [{
+                    "showAxisTitle": false,
+                    "labelColor": {"solid": {"color": "#4A4A4A"}},
+                    "gridlineColor": {"solid": {"color": "#F0F0F0"}}
+                }]
+            }
+        }
+    }
+}
