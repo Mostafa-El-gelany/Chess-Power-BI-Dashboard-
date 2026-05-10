@@ -44,9 +44,15 @@ The analytical pipeline includes robust data preprocessing with Python (Pandas) 
 ## Team
 This project was developed collaboratively by the following team members:
 
-- **Ahmed Nashat Noaman** - [@ahmednashatnoaman-svg](https://github.com/ahmednashatnoaman-svg)
-- **Mostafa El-Gelany** - [@Mostafa-El-gelany](https://github.com/Mostafa-El-gelany)
-- **Ahmed Sharaf** - [@ahmed-m-sharaf](https://github.com/ahmed-m-sharaf)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><a href="https://github.com/ahmednashatnoaman-svg"><img src="https://github.com/ahmednashatnoaman-svg.png" width="100px;" alt="Ahmed Nashat Noaman"/><br /><sub><b>Ahmed Nashat Noaman</b></sub></a></td>
+      <td align="center"><a href="https://github.com/Mostafa-El-gelany"><img src="https://github.com/Mostafa-El-gelany.png" width="100px;" alt="Mostafa El-Gelany"/><br /><sub><b>Mostafa El-Gelany</b></sub></a></td>
+      <td align="center"><a href="https://github.com/ahmed-m-sharaf"><img src="https://github.com/ahmed-m-sharaf.png" width="100px;" alt="Ahmed Sharaf"/><br /><sub><b>Ahmed Sharaf</b></sub></a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 *Built with passion for data and chess.*
